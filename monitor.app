@@ -13,4 +13,7 @@ echo good job
 tested and accepted
 new relic
 appDynamics
+<<<<<<< HEAD
+>>>>>>> e143f13... monitoring apps added
+=======
 >>>>>>> e143f13... monitoring apps added
