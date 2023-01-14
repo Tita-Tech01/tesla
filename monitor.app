@@ -2,3 +2,5 @@
 prometheus
 grafana
 dynatrace
+new relic
+nagios
