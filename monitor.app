@@ -9,3 +9,5 @@ deployment 4
 deploy to staging
 echo good job
 tested and accepted
+new relic
+appDynamics
