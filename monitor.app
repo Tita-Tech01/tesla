@@ -11,3 +11,4 @@ echo good job
 tested and accepted
 new relic
 appDynamics
+*bug removed
